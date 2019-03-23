@@ -2,7 +2,7 @@
 
 A CLI app simulating an Amazon-like store with two modes: buyer and store manager.
 
-Developer: @mattsainson
+Developer: mattsainson
 Date: Fri, Mar 22, 2019
 
 Customer
