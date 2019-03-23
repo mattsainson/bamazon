@@ -2,7 +2,7 @@
 
 A CLI app simulating an Amazon-like store with two modes: buyer and store manager.
 
-Developer: Matt Sainson
+Developer: @mattsainson
 Date: Fri, Mar 22, 2019
 
 Buyer
@@ -52,4 +52,11 @@ To run the app:
     9.2 Terminal: node bamazonCustomer.js
 10. To start the manager's experience:
     10.1 Set your Terminal's current path to the path of the app directory.
-    10.2 Termianl: node bamazonManager.js
+    10.2 Terminal: node bamazonManager.js
+
+Images:
+
+![customer welcome](https://github.com/mattsainson/bamazon/blob/master/images/customer1-welcome.png)
+![customer buy](https://github.com/mattsainson/bamazon/blob/master/images/customer2-buy.png)
+
+
