@@ -5,13 +5,13 @@ A CLI app simulating an Amazon-like store with two modes: buyer and store manage
 Developer: @mattsainson
 Date: Fri, Mar 22, 2019
 
-Buyer
+Customer
 
-The buyer is presented with the list of available products in inventory including the price.
-The buyer can buy a product or exit the system.
-If the buyer selects Buy, the system asks for the ID and the quantity of the product to buy.
+The customer is presented with the list of available products in inventory including the price.
+The customer can buy a product or exit the system.
+If the customer selects Buy, the system asks for the ID and the quantity of the product to buy.
 The system checks if there is sufficient inventory and if so, makes the sale. A reciept is generated for the sale indicating the date, time, name of product, quantity bought, and total charged.
-If there isn't sufficient inventory, the system informs the buyer.
+If there isn't sufficient inventory, the system informs the customer.
 
 Store Manager
 
@@ -56,7 +56,16 @@ To run the app:
 
 Images:
 
+Customer
+
 ![customer welcome](https://github.com/mattsainson/bamazon/blob/master/images/customer1-welcome.png)
 ![customer buy](https://github.com/mattsainson/bamazon/blob/master/images/customer2-buy.png)
 
+Manager
 
+![manager main menu](https://github.com/mattsainson/bamazon/blob/master/images/manager1-mainmenu.png)
+![manager low inventory](https://github.com/mattsainson/bamazon/blob/master/images/manager2-lowinventory.png)
+![manager view products](https://github.com/mattsainson/bamazon/blob/master/images/manager3-viewproducts.png)
+![manager add inventory](https://github.com/mattsainson/bamazon/blob/master/images/manager4-addinventory.png)
+![manager add new product](https://github.com/mattsainson/bamazon/blob/master/images/manager5-addnewproduct.png)
+![manager exit](https://github.com/mattsainson/bamazon/blob/master/images/manager6-exit.png)
