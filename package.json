@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI app simulating an Amazon-like store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattsainson/bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattsainson/bamazon/issues"
+  },
+  "homepage": "https://github.com/mattsainson/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "moment": "^2.24.0",
+    "mysql": "^2.16.0"
+  }
+}
